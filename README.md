@@ -10,6 +10,7 @@ Cristian Fernando Laynez Bachez - 201281
 
 ## Librerias Utilizadas
 
+- csv
 - numpy
 - matplotlib.pyplot
 
